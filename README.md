@@ -1,2 +1,1 @@
-# DLBasics
 # DLの勉強
